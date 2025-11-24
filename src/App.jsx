@@ -8,6 +8,7 @@ function App() {
 
   return (
     <div>
+      <h1>hello ppsu</h1>
       <Calculator />
     </div>
   );
